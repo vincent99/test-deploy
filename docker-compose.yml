@@ -1,0 +1,4 @@
+ubu:
+  image: ubuntu
+  tty: true
+  stdin_open: true
